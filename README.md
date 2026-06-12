@@ -115,6 +115,8 @@ After completing the assignment, students should be able to:
 
 ```text
 .
+├── .gitattributes
+├── .gitignore
 ├── 01-Animals.ipynb
 ├── 02-Billionaires.ipynb
 └── README.md
